@@ -50,6 +50,8 @@ Most e-commerce search bars only accept rigid filters. This project lets shopper
 
 ## 🚀 Launch App
 
+[https://ecommerce-chat-assistant.streamlit.app/](https://ecommerce-chat-assistant.streamlit.app/)
+
 <img src="app/resources/Project%20Screenshot%201.JPG" alt="App Screenshot" width="600">
 
 <img src="app/resources/Project%20Screenshot%202.JPG" alt="App Screenshot" width="600">
